@@ -10,7 +10,7 @@ const allowedOrigins = [
   'http://localhost:3001',
   'http://localhost:3000',
   // Add your deployed frontend URL here after deployment
-  // 'https://your-frontend.vercel.app'
+  'https://healthcarefrontend-bino.netlify.app'
 ];
 
 app.use(cors({ 
